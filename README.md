@@ -6,8 +6,8 @@ Here is how to prepare and upload an NFT collection to IPFS using https://nft.st
 
 ## Preparation
 Before you start, make sure you have the following:
-* A folder with all the images/media of your NFT collection. Supported file formats include JPG, PNG, GIF, MP3, and MP4. If you are using GIF, MP3, or MP4, it is recommended to include image thumbnails in the metadata so marketplaces can best support the collection.
-* A folder with all the metadata files. Each metadata file must be named according to the corresponding media file (e.g. 1.json for 1.png).
+* A folder with all the images/media.
+* A folder with all the metadata files. Each metadata file must be named according to the corresponding media file (e.g. 1.json for 1.png). If you are using GIF, MP3, or MP4, it is recommended to include image thumbnails in the metadata so marketplaces can best support the collection. Thumbnails would require an additional upload of a thumbnails folder.
 
 We recommend using one of these metadata standards:
 * XLS-24: https://github.com/XRPLF/XRPL-Standards/discussions/69
