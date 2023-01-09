@@ -1,0 +1,17 @@
+{
+    "XRPL_Server": "wss://s.altnet.rippletest.net:51233/",
+    "Account" : "rUfQJWAfzMHgtjUrYYEzKTyzZHALhEF1Av",
+    "Secret_Key" : "",
+    "Mint":
+    {
+        "Base_URI": "ipfs://bafybeifwagnkgmgqnss6uotfrs3qbjdr7weznxds3q7pqorz3k4wrr3cnq/",
+        "Start_Index": 1,
+        "Number_Of_Items": 100,
+        "Royalties": 5,
+        "Token_Taxon": 0,
+        "Burnable": false,
+        "Only_XRP": false,
+        "Transferable": true,
+        "Transaction_Memo": "Minted by X"
+    }
+  }

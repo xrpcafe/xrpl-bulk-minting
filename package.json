@@ -1,0 +1,15 @@
+{
+  "name": "xrpl-bulk-minting",
+  "version": "1.0.0",
+  "description": "bulk mint nfts on the xrpl",
+  "main": "mint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xrp.cafe",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.8",
+    "xrpl": "^2.7.0-beta.0"
+  }
+}
