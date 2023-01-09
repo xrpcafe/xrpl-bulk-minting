@@ -85,7 +85,10 @@ git clone https://github.com/xrpcafe/xrpl-bulk-minting
 8. Token_Taxon: the taxon to use to mint this batch of NFTS. Must be an integer.
 9. Burnable: can this NFT be burnt by it's creator. Default is false.
 10. Only_XRP: should this NFT only be transferable/tradeable with XRP only. Default is false.
-11. Transferable: is this NFT transferable. Default is true. ```diff -This value must be set to true if you want this NFT to be tradeable on any marketplace ```
+11. Transferable: is this NFT transferable. Default is true. 
+```diff 
+- This value must be set to true if you want this NFT to be tradeable on any marketplace 
+```
 12. Transaction_Memo: customizable text to add to the memo field of the transaction.
 
 ### Install
